@@ -75,7 +75,7 @@ Por falta de tempo, e por termos priorizado as funções principais, algumas coi
 ## Próximos passos
 
 - Ampliar a variedade de comandos.
-- Implementar a tela de configurações (teste de microfone, dispositivo de entrada de áudio e informações de contato para dúvidas).
+- Implementar a tela de configurações (teste de microfone, dispositivo de entrada de áudio e informações de contato para dúvidas)
 
 ## Equipe
 
